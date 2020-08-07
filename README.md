@@ -1,5 +1,7 @@
 # Communicating_Data_Findings
 
+
+
 ## The Goal
 
 The main goal of this project is to understand this dataset, eventually, find information that can improve the service. In addition, this will help me practice my newly gained skills in exploring and representing data in the best way possible. 
@@ -32,4 +34,15 @@ I included all my findings in detail in the Notebook, but to wrap it all up, I c
 
 
 
-List of resources used during the creation of the project. This includes web sites, books, forums, blog posts, and GitHub repositories.
+## Needed Installations
+I used Python in this project. Installing pip is essential, you can find more [here].(https://phoenixnap.com/kb/install-pip-windows) 
+
+Also, I used the following libraries:
+* Pandas
+* NumPy
+* Matplotlib
+* seaborn
+
+
+The implementation of this project is through Jupyter Notebook.
+
