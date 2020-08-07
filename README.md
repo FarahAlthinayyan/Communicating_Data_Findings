@@ -4,9 +4,13 @@
 
 The main goal of this project is to understand this dataset, eventually, find information that can improve the service. In addition, this will help me practice my newly gained skills in exploring and representing data in the best way possible. 
 
+
+
 ## The Data 
 
 I chose the Bay Wheels bicycle sharing service. This service is provided to support bicycling as an alternative transportation option. Bicycling is a great way to save the Earth from global warming, and a good sport.
+
+
 
 ## Throughout Exploration 
 
