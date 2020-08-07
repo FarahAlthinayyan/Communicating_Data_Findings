@@ -28,7 +28,7 @@ I started out by cleaning the dataset because if the data isn't clean, our findi
 
 I included all my findings in detail in the Notebook, but to wrap it all up, I can point out the following:
 
-- There are a lot of possible explanations for why there are few customers and very few whom share their trips. To limit the explanations, more research should be implemented.
+- There are a lot of possible explanations for why there are few customers and very few whom share their trips. Mainly, people should know about the "sharing trip" feature so that they can motivate others to join
 - Also, it would be the best choice to preform all maintainance procedures and updates at night or office hours. 
 - I think it is safe to say that this service is doing a good job and has a promising future. 
 
